@@ -98,7 +98,7 @@ Progress charts motivate users to stay consistent and achieve their goals.
 Portable Assistant
 Since the application runs locally, it works offline and can be used anytime.
 
-#Conclusion
+#Conclusion<br>
 This project helped us understand practical applications of Python programming through the implementation of a Personal Habit Tracker.
 It demonstrates how data storage, visualization, and user interaction can be combined using Object-Oriented Programming.
 Through this project we learned about:
